@@ -1,0 +1,97 @@
+[
+  {
+    "order_id": 1001,
+    "customer": "Asha",
+    "items": {
+      "Margherita Pizza": 2,
+      "Chocolate Shake": 2
+    }
+  },
+  {
+    "order_id": 1002,
+    "customer": "Ben",
+    "items": {
+      "Veg Burger": 1,
+      "French Fries": 1
+    }
+  },
+  {
+    "order_id": 1003,
+    "customer": "Chloe",
+    "items": {
+      "Chicken Wrap": 3,
+      "French Fries": 3,
+      "Chocolate Shake": 3
+    }
+  },
+  {
+    "order_id": 1004,
+    "customer": "Dev",
+    "items": {
+      "Caesar Salad": 1
+    }
+  },
+  {
+    "order_id": 1005,
+    "customer": "Elena",
+    "items": {}
+  },
+  {
+    "order_id": 1006,
+    "customer": "Farid",
+    "items": {
+      "Sushi Platter": 2
+    }
+  },
+  {
+    "order_id": 1007,
+    "customer": "Grace",
+    "items": {
+      "Margherita Pizza": 4,
+      "Veg Burger": 2,
+      "Caesar Salad": 2
+    }
+  },
+  {
+    "order_id": 1008,
+    "customer": "Hiro",
+    "items": {
+      "Veg Burger": 0
+    }
+  },
+  {
+    "order_id": 1009,
+    "customer": "Isha",
+    "items": {
+      "Chicken Wrap": 1,
+      "Chocolate Shake": 1
+    }
+  },
+  {
+    "order_id": 1010,
+    "customer": "Jon",
+    "items": {
+      "French Fries": 2,
+      "Veg Burger": 1,
+      "Chicken Wrap": 1
+    }
+  },
+  {
+    "order_id": 1011,
+    "customer": "Kira",
+    "items": {
+      "Caesar Salad": 2,
+      "Margherita Pizza": 1,
+      "Burrito": 1
+    }
+  },
+  {
+    "order_id": 1012,
+    "customer": "Liam",
+    "items": {
+      "Margherita Pizza": 3,
+      "Chocolate Shake": 3,
+      "French Fries": 2
+    }
+  }
+]

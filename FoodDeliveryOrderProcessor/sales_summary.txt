@@ -1,0 +1,6 @@
+Daily Sales Summary Report
+orders received :0
+orders completed :0
+order rejected :0
+total revenue : $0
+Highest-value order: none

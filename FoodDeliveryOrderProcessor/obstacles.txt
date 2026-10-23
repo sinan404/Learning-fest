@@ -1,0 +1,31 @@
+1. Confusing items.items()
+Problem : I did not understand why "items" appeared twice in
+            "for name, qty in items.items()".
+Cause   : The first "items" is my own variable name. ".items()" is a
+            built-in dictionary method that returns (key, value) pairs.
+
+
+2. return(total,2) bug
+Problem : The function would have returned a pair like (34.0, 2)
+            instead of a rounded number.
+Cause   : I put the 2 outside round(), which created a tuple.
+Fix     : Changed it to: return round(total, 2)
+
+3. Sloppy validation messages
+Problem : Output read "Sushi Platteris not on the menu" and one message
+            had a typo ("qyt").
+Cause   : A missing space inside the string and a misspelling.
+Fix     : Added the space before "is not on the menu" and corrected
+            the spelling of the quantity message.
+
+4. KeyError on MENU[name]
+Problem : The program crashed on the very first order.
+Cause   : final_bill passed the whole order to calculate_order_total,
+            so the loop treated "order_id" as a menu item.
+Fix     : Passed only the items: calculate_order_total(order["items"])
+
+5. ValueError: I/O operation on closed file
+Problem : The program crashed while writing the summary file.
+Cause   : The "if top:" block was not indented under
+            "with open(...)", so it ran after the file had closed.
+Fix     : Indented the if/else writes so they sit inside the with block.
