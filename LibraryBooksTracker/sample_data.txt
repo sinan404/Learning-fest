@@ -1,0 +1,5 @@
+1984,George Orwell,,
+Animal Farm,George Orwell,,
+Clean Code,Robert C. Martin,,
+Dune,Frank Herbert,Carlos,2026-09-20
+Sapiens,Yuval Noah Harari,,
