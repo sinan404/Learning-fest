@@ -1,0 +1,23 @@
+JOB APPLICATION TRACKER
+============================================================
+
+Company     Role                    Status      Date
+------------------------------------------------------------
+Google      Software Engineer       Applied     2026-09-01
+Microsoft   Backend Developer       Interview   2026-09-05
+Amazon      Cloud Engineer          Rejected    2026-08-20
+Infosys     Python Developer        Selected    2026-08-10
+Zoho        Full Stack Developer    Applied     2026-09-15
+Flipkart    Data Engineer           Rejected    2026-08-25
+Razorpay    API Developer           Applied     2026-10-01
+
+SUMMARY
+------------------------------
+Total applications: 7
+  Applied   : 3
+  Interview : 1
+  Selected  : 1
+  Rejected  : 2
+
+Currently at Interview stage:
+  - Microsoft (Backend Developer)
