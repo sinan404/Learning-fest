@@ -1,0 +1,6 @@
+API response was difficult to read
+Issue: Printing the whole JSON response produced a very large block of text.
+
+Fix: Used dictionary keys and list indexes to select the country name, capital, currency, population, languages.then printed only those values.
+
+New Keywords in Python hard to get logic behind it... need to spend more time learning it
